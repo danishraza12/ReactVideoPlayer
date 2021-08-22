@@ -2,6 +2,10 @@
 
 ![Capture](https://user-images.githubusercontent.com/60378949/129485639-4168349c-e8f6-4348-a2d5-0dd0f21377e7.PNG)
 
+# Note
+
+You will need to add your own API Key for the app to work
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
